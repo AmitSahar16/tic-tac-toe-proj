@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="button_background">#FF6200EE</color>
+    <color name="player_o">#FFF44336</color>
+    <color name="player_x">#FF2196F3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="winning_highlight">#FFFFEB3B</color>
+    <string name="app_name">TicTacToe</string>
+    <string name="game_draw">It\'s a Draw!</string>
+    <string name="play_again">Play Again</string>
+    <string name="player_turn">Player %s Turn</string>
+    <string name="player_wins">Player %s Wins!</string>
+    <style name="Theme.TicTacToe" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

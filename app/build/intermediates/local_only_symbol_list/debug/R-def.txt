@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color button_background
+color player_o
+color player_x
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+color winning_highlight
+drawable button_ripple
+id button0
+id button1
+id button2
+id button3
+id button4
+id button5
+id button6
+id button7
+id button8
+id gridLayout
+id playAgainButton
+id statusTextView
+layout activity_main
+string app_name
+string game_draw
+string play_again
+string player_turn
+string player_wins
+style Theme.TicTacToe

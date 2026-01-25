@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.tictactoe.app-merged_res-31:/drawable_button_ripple.xml.flat",
+        "source": "com.example.tictactoe.app-main-33:/drawable/button_ripple.xml"
+    },
+    {
+        "merged": "com.example.tictactoe.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.tictactoe.app-main-33:/layout/activity_main.xml"
+    }
+]
